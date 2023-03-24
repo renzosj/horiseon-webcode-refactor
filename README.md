@@ -7,8 +7,8 @@ Details of the refactor include:
 - application of semantic HTML elements 
 - logical restructuring of HTML elements
 - added text descriptions for image elements
-- sequential ordering of heading attributes
-- an descriptive title element instead of a placeholder
+- sequential ordering of heading elements
+- a descriptive title element instead of a placeholder
 
 ## Installation / Usage
 
