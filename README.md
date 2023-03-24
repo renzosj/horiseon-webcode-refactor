@@ -17,7 +17,7 @@ Clone the repository. The source code can be located as follows:
 The style sheet can be found at:
 - developed/ assets/ css/ style.css
 
-![Horiseon Home Page](Developed/assets/images/screenshot.png)
+![Horiseon Home Page](assets/images/screenshot.png)
 
 
 ## Credits
