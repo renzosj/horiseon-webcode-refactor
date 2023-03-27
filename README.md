@@ -13,9 +13,9 @@ Details of the refactor include:
 ## Installation / Usage
 
 Clone the repository. The source code can be located as follows:
-- developed/ index.html
+- root/ index.html
 The style sheet can be found at:
-- developed/ assets/ css/ style.css
+- root/ assets/ css/ style.css
 
 ![Horiseon Home Page](assets/images/screenshot.png)
 
