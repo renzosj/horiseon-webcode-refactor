@@ -1,4 +1,4 @@
-# Horiseon Webpade Code Refactor
+# Horiseon Webpage Code Refactor
 
 ## Description
 
